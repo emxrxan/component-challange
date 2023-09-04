@@ -7,7 +7,7 @@ export default function SubmitContainer(props) {
   return (
     <div className='submitedContainer'>
         <div><img src="./img/illustration-thank-you.svg" alt="" /></div>
-        <p className='voteContent'>{`You selected out of ${props.voteNumber}`}</p>
+        <p className='voteContent'>{`You selected ${props.voteNumber} out of 5`}</p>
         <div>
             <Content 
                 title="Thank you!" 
