@@ -1,0 +1,13 @@
+.submitedContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.voteContent{
+    background-color: hsl(216, 12%, 25%);
+    color: hsl(25, 97%, 53%);
+    padding: 0.5rem;
+}

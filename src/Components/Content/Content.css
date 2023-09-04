@@ -1,0 +1,15 @@
+.vote{
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+}
+
+.submited > p,
+.vote > p{
+    margin-top: 0.5rem;
+    color: hsl(217, 12%, 63%);
+}
+
+.submited{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
